@@ -264,5 +264,3 @@ linkStyle default opacity:0.5
 ```
 
 <!-- end dependency graph -->
-
-(This section may be regenerated at any time by running `yarn update-readme-content`.)
